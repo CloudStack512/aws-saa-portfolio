@@ -7,22 +7,22 @@ Welcome to my AWS Solutions Architect portfolio. This collection showcases hands
 ### 1. EC2 Web Server + S3 Static Website
 - **Overview:** Launches an EC2 web server that serves static content from an S3 bucket.  
 - **Skills Demonstrated:** EC2, S3, IAM, Security Groups, User Data scripts  
-- [View Project →](ec2-s3-webserver)
+  [View Project →](ec2-s3-webserver)
 
 ### 2. Serverless Image Upload (Lambda + S3 + API Gateway)
 - **Overview:** Serverless architecture to upload images via API Gateway with Lambda and S3.  
 - **Skills Demonstrated:** Lambda, API Gateway, S3, IAM, CloudWatch  
-- [View Project →](serverless-image-upload)
+  [View Project →](serverless-image-upload)
 
 ### 3. Multi-Tier VPC with RDS Database
 - **Overview:** Builds a secure multi-tier architecture with EC2 in a public subnet and RDS in a private subnet.  
 - **Skills Demonstrated:** VPC, Subnets, Security Groups, EC2, RDS  
-- [View Project →](multi-tier-vpc)
+  [View Project →](multi-tier-vpc)
 
 ### 4. Auto Scaling with CloudWatch + SNS
 - **Overview:** Demonstrates EC2 Auto Scaling, CloudWatch alarms, and SNS notifications for proactive monitoring.  
 - **Skills Demonstrated:** Auto Scaling, CloudWatch, SNS, EC2  
-- [View Project →](autoscaling-cloudwatch)
+  [View Project →](autoscaling-cloudwatch)
 
 ---
 
