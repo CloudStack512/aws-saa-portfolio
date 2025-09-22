@@ -1,10 +1,47 @@
-This repository showcases four professional-level AWS projects that demonstrate my skills as an AWS Certified Solutions Architect (SAA). 
+# AWS Solutions Architect Portfolio
 
-Each project includes:
-- Architecture diagrams showing service relationships and data flow
-- AWS console screenshots proving hands-on implementation
-- Step-by-step instructions and scripts used to deploy infrastructure
-- Documentation of testing and outcomes
+Welcome to my AWS Solutions Architect portfolio. This collection showcases hands-on projects that demonstrate my knowledge and skills gained while preparing for the AWS Certified Solutions Architect – Associate (SAA) exam.  
 
-Projects cover the full spectrum of SAA topics, including EC2, S3, IAM, Lambda, API Gateway, VPC, RDS, Auto Scaling, CloudWatch, and SNS.
-All resources were tested and then deleted to manage costs. Screenshots and diagrams serve as proof of practical experience.
+## Projects
+
+### 1. EC2 Web Server + S3 Static Website
+- **Overview:** Launches an EC2 web server that serves static content from an S3 bucket.  
+- **Skills Demonstrated:** EC2, S3, IAM, Security Groups, User Data scripts  
+- [View Project →](ec2-s3-webserver/README.md)
+
+### 2. Serverless Image Upload (Lambda + S3 + API Gateway)
+- **Overview:** Serverless architecture to upload images via API Gateway with Lambda and S3.  
+- **Skills Demonstrated:** Lambda, API Gateway, S3, IAM, CloudWatch  
+- [View Project →](serverless-image-upload/README.md)
+
+### 3. Multi-Tier VPC with RDS Database
+- **Overview:** Builds a secure multi-tier architecture with EC2 in a public subnet and RDS in a private subnet.  
+- **Skills Demonstrated:** VPC, Subnets, Security Groups, EC2, RDS  
+- [View Project →](multi-tier-vpc/README.md)
+
+### 4. Auto Scaling with CloudWatch + SNS
+- **Overview:** Demonstrates EC2 Auto Scaling, CloudWatch alarms, and SNS notifications for proactive monitoring.  
+- **Skills Demonstrated:** Auto Scaling, CloudWatch, SNS, EC2  
+- [View Project →](autoscaling-cloudwatch/README.md)
+
+---
+
+## About Me
+I’m an AWS Certified Solutions Architect (SAA) with a background in networking and systems administration. My goal is to build scalable, secure, and cost-efficient cloud solutions while bridging traditional infrastructure with modern cloud services.
+
+---
+
+## How to Use This Portfolio
+- Each project folder contains:  
+  - `README.md` with step-by-step instructions  
+  - Architecture diagrams (`diagrams/`)  
+  - Screenshots of AWS console and outputs (`screenshots/`)  
+  - Scripts or templates used to deploy infrastructure (`scripts/`)  
+
+- All resources were tested and then deleted to manage costs. Screenshots and diagrams provide proof of hands-on experience.
+
+---
+
+## Contact
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
+- [Email](mailto:YOUR.EMAIL@example.com)
